@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC Introduction", "MVC Introduction\MVC Introduction.csproj", "{0D381295-6AF8-42E7-81A8-DBF95714D522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{E2FD7D2A-0334-4F88-8C38-7018EAA39431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repo", "Repo\Repo.csproj", "{7B761ADE-1E1C-4DD4-A2DF-A616113C9ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D381295-6AF8-42E7-81A8-DBF95714D522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D381295-6AF8-42E7-81A8-DBF95714D522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D381295-6AF8-42E7-81A8-DBF95714D522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D381295-6AF8-42E7-81A8-DBF95714D522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2FD7D2A-0334-4F88-8C38-7018EAA39431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FD7D2A-0334-4F88-8C38-7018EAA39431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FD7D2A-0334-4F88-8C38-7018EAA39431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FD7D2A-0334-4F88-8C38-7018EAA39431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B761ADE-1E1C-4DD4-A2DF-A616113C9ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B761ADE-1E1C-4DD4-A2DF-A616113C9ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B761ADE-1E1C-4DD4-A2DF-A616113C9ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B761ADE-1E1C-4DD4-A2DF-A616113C9ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB87C988-10E6-4B75-B5F1-4C8FE326E0A2}
+	EndGlobalSection
+EndGlobal
